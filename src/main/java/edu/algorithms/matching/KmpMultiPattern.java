@@ -3,7 +3,6 @@ package edu.algorithms.matching;
 import java.util.List;
 import java.util.Objects;
 
-/** Runs KMP separately for every pattern, retaining each prefix table for reuse. */
 public final class KmpMultiPattern implements MultiPatternMatcher {
     private final List<String> patterns;
     private final int[][] prefixTables;

@@ -17,7 +17,6 @@ import java.util.List;
 import java.util.Locale;
 import java.util.function.Supplier;
 
-/** A transparent coursework experiment; not a replacement for a JMH microbenchmark. */
 public final class BenchmarkRunner {
     private static final int[] PATTERN_COUNTS = {10, 100, 1_000};
     private static final int[] TEXT_LENGTHS = {1_000, 10_000, 100_000};
@@ -50,7 +49,6 @@ public final class BenchmarkRunner {
                 }
                 long expectedCount = automaton.countMatches(dataset.text());
                 for (int run = 1; run <= REPETITIONS; run++) {
-                    // Alternate which implementation runs first to reduce ordering bias.
                     if (run % 2 == 1) {
                         measurements.add(measure("Aho-Corasick", dataset, run, ahoFactory, expectedCount));
                         measurements.add(measure("KMP", dataset, run, kmpFactory, expectedCount));

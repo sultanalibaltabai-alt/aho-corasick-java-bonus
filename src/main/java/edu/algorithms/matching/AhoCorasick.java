@@ -9,10 +9,6 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.Queue;
 
-/**
- * Reusable Aho-Corasick automaton with a compressed alphabet and completed transitions.
- * Failure links are built breadth-first; output links avoid copying inherited outputs.
- */
 public final class AhoCorasick implements MultiPatternMatcher {
     private static final int MISSING = -1;
 

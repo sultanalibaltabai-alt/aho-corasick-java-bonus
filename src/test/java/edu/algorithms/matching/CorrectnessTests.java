@@ -5,7 +5,6 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Random;
 
-/** Dependency-free tests with an independent, naive substring oracle. */
 public final class CorrectnessTests {
     private static int assertions;
     private static final Comparator<Match> ORDER = Comparator.comparingInt(Match::patternId)

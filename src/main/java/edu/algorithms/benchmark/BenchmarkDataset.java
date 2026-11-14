@@ -6,7 +6,6 @@ import java.util.List;
 import java.util.Random;
 import java.util.Set;
 
-/** Deterministic lowercase inputs with distinct patterns and guaranteed nonzero output. */
 record BenchmarkDataset(List<String> patterns, String text, long seed) {
     static BenchmarkDataset generate(int patternCount, int textLength) {
         long seed = 20261114L + 1_000_003L * patternCount + textLength;

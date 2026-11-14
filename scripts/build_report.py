@@ -1,7 +1,3 @@
-"""Validate the Java experiment and generate Markdown, vector chart, and PDF reports.
-
-Optional dependencies: reportlab, pypdf. Java compilation/benchmarking does not need Python.
-"""
 from __future__ import annotations
 
 import csv
