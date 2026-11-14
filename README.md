@@ -4,9 +4,6 @@ A dependency-free Java 17+ implementation of multi-pattern exact matching, with 
 
 **Student:** Sultanali Baltabay
 
-**Experiment date:** 14 November 2026, Asia/Qyzylorda
-
-**Report:** [technical report](docs/REPORT.md) | [PDF](output/pdf/Aho-Corasick-Report.pdf)
 
 **Measured results:** [analysis and tables](results/RESULTS.md) | [all 90 runs](results/benchmark-runs.csv) | [18 averages](results/benchmark-summary.csv)
 
