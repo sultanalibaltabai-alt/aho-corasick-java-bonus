@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="500" height="205" preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 205" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="500" height="205"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-205)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="192" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(9%,23%,34%); stroke:none;" transform="translate(0,384) scale(1,-1)">Search at 100,000 text characters</text>
+			<text x="0" y="177" style="font-family: Times-Roman; font-size: 8px;fill: rgb(33%,40%,45%); stroke:none;" transform="translate(0,354) scale(1,-1)">Mean milliseconds; logarithmic axis; lower is faster</text>
+			<path d="M 114,32 L 114,161 Z" style="stroke: rgb(87%,90%,92%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="105.0" y="19" style="font-family: Times-Roman; font-size: 8px;fill: rgb(33%,40%,45%); stroke:none;" transform="translate(0,38) scale(1,-1)">0.001</text>
+			<path d="M 170.666667,32 L 170.666667,161 Z" style="stroke: rgb(87%,90%,92%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="163.66666666666666" y="19" style="font-family: Times-Roman; font-size: 8px;fill: rgb(33%,40%,45%); stroke:none;" transform="translate(0,38) scale(1,-1)">0.01</text>
+			<path d="M 227.333333,32 L 227.333333,161 Z" style="stroke: rgb(87%,90%,92%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="222.33333333333331" y="19" style="font-family: Times-Roman; font-size: 8px;fill: rgb(33%,40%,45%); stroke:none;" transform="translate(0,38) scale(1,-1)">0.1</text>
+			<path d="M 284,32 L 284,161 Z" style="stroke: rgb(87%,90%,92%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="282.0" y="19" style="font-family: Times-Roman; font-size: 8px;fill: rgb(33%,40%,45%); stroke:none;" transform="translate(0,38) scale(1,-1)">1</text>
+			<path d="M 340.666667,32 L 340.666667,161 Z" style="stroke: rgb(87%,90%,92%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="336.66666666666663" y="19" style="font-family: Times-Roman; font-size: 8px;fill: rgb(33%,40%,45%); stroke:none;" transform="translate(0,38) scale(1,-1)">10</text>
+			<path d="M 397.333333,32 L 397.333333,161 Z" style="stroke: rgb(87%,90%,92%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="391.3333333333333" y="19" style="font-family: Times-Roman; font-size: 8px;fill: rgb(33%,40%,45%); stroke:none;" transform="translate(0,38) scale(1,-1)">100</text>
+			<path d="M 454,32 L 454,161 Z" style="stroke: rgb(87%,90%,92%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="446.0" y="19" style="font-family: Times-Roman; font-size: 8px;fill: rgb(33%,40%,45%); stroke:none;" transform="translate(0,38) scale(1,-1)">1000</text>
+			<text x="0" y="139" style="font-family: Times-Roman; font-size: 9px;fill: rgb(9%,23%,34%); stroke:none;" transform="translate(0,278) scale(1,-1)">10 patterns</text>
+			<rect x="114" y="143" width="161.75295650709506" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,52%,49%); fill-rule: evenodd;"/>
+			<text x="279.75295650709506" y="145" style="font-family: Times-Roman; font-size: 7px;fill: rgb(9%,23%,34%); stroke:none;" transform="translate(0,290) scale(1,-1)">0.715</text>
+			<rect x="114" y="129" width="189.40730759637256" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,46%,15%); fill-rule: evenodd;"/>
+			<text x="307.40730759637256" y="131" style="font-family: Times-Roman; font-size: 7px;fill: rgb(9%,23%,34%); stroke:none;" transform="translate(0,262) scale(1,-1)">2.200</text>
+			<text x="0" y="96" style="font-family: Times-Roman; font-size: 9px;fill: rgb(9%,23%,34%); stroke:none;" transform="translate(0,192) scale(1,-1)">100 patterns</text>
+			<rect x="114" y="100" width="170.48251709911574" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,52%,49%); fill-rule: evenodd;"/>
+			<text x="288.48251709911574" y="102" style="font-family: Times-Roman; font-size: 7px;fill: rgb(9%,23%,34%); stroke:none;" transform="translate(0,204) scale(1,-1)">1.020</text>
+			<rect x="114" y="86" width="256.8212130387224" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,46%,15%); fill-rule: evenodd;"/>
+			<text x="374.8212130387224" y="88" style="font-family: Times-Roman; font-size: 7px;fill: rgb(9%,23%,34%); stroke:none;" transform="translate(0,176) scale(1,-1)">34.052</text>
+			<text x="0" y="53" style="font-family: Times-Roman; font-size: 9px;fill: rgb(9%,23%,34%); stroke:none;" transform="translate(0,106) scale(1,-1)">1,000 patterns</text>
+			<rect x="114" y="57" width="191.86458938804378" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,52%,49%); fill-rule: evenodd;"/>
+			<text x="309.8645893880438" y="59" style="font-family: Times-Roman; font-size: 7px;fill: rgb(9%,23%,34%); stroke:none;" transform="translate(0,118) scale(1,-1)">2.431</text>
+			<rect x="114" y="43" width="319.336816819346" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,46%,15%); fill-rule: evenodd;"/>
+			<text x="437.336816819346" y="45" style="font-family: Times-Roman; font-size: 7px;fill: rgb(9%,23%,34%); stroke:none;" transform="translate(0,90) scale(1,-1)">431.873</text>
+			<rect x="115" y="0" width="9" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,52%,49%); fill-rule: evenodd;"/>
+			<text x="129" y="1" style="font-family: Times-Roman; font-size: 8px;fill: rgb(33%,40%,45%); stroke:none;" transform="translate(0,2) scale(1,-1)">Aho-Corasick</text>
+			<rect x="220" y="0" width="9" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,46%,15%); fill-rule: evenodd;"/>
+			<text x="234" y="1" style="font-family: Times-Roman; font-size: 8px;fill: rgb(33%,40%,45%); stroke:none;" transform="translate(0,2) scale(1,-1)">Separate KMP</text>
+		</g>
+	</g>
+</svg>

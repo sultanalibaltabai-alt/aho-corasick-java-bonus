@@ -1,0 +1,31 @@
+PASS: classic failure/output example
+PASS: suffix output links
+PASS: overlapping nested patterns
+PASS: overlapping nontrivial prefix
+PASS: duplicate pattern IDs
+PASS: empty text
+PASS: empty dictionary
+PASS: no matches
+PASS: patterns longer than text
+PASS: unknown characters reset state
+PASS: boundaries and case
+PASS: Unicode UTF-16 positions
+PASS: deep fallback
+PASS: embedded zero code unit
+PASS: 14 named input cases, API/position checks, 500 seeded random cases; 3108 assertions.
+Text: ahishers
+Patterns: [he, she, his, hers]
+pattern[2]=his at [1, 4)
+pattern[1]=she at [3, 6)
+pattern[0]=he at [4, 6)
+pattern[3]=hers at [4, 8)
+Warming up the JVM before the first measured case...
+Verified and measured: patterns=10, text=1000, matches=10
+Verified and measured: patterns=10, text=10000, matches=11
+Verified and measured: patterns=10, text=100000, matches=10
+Verified and measured: patterns=100, text=1000, matches=20
+Verified and measured: patterns=100, text=10000, matches=26
+Verified and measured: patterns=100, text=100000, matches=75
+Verified and measured: patterns=1000, text=1000, matches=30
+Verified and measured: patterns=1000, text=10000, matches=89
+Verified and measured: patterns=1000, text=100000, matches=545
