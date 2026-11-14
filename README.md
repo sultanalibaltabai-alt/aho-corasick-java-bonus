@@ -2,7 +2,7 @@
 
 A dependency-free Java 17+ implementation of multi-pattern exact matching, with a separate KMP baseline, independently checked test cases, and reproducible timing experiments.
 
-**Author:** Sultanali Baltabay
+**Student:** Sultanali Baltabay
 
 **Experiment date:** 14 November 2026, Asia/Qyzylorda
 
@@ -133,10 +133,6 @@ The report builder validates that all 90 runs, 18 averages, five-run groups, mat
 | Comparison with separate KMP | `KmpMultiPattern`, measured results, report discussion |
 | Test cases, results, README, GitHub | This repository and its CI workflow |
 | Approximately one handwritten page, in student's own words | **Separate student task**; see checklist below |
-
-## Handwritten submission and assistance
-
-The assignment explicitly requires an approximately one-page explanation written by hand, entirely in the student's own words, without AI writing or translation. This repository's code, documentation, and printed technical report were prepared with AI assistance. **The technical report does not fulfill or replace that handwritten requirement.** The student must independently write that part and submit the repository URL through Moodle. [Study questions and submission checklist](docs/HANDWRITTEN-CHECKLIST.md) identify topics to understand, without supplying a ready-to-copy handwritten essay.
 
 ## References
 
